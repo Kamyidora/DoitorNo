@@ -10,7 +10,8 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.example.user.doitorno.Coin"
-    android:background="?attr/colorControlHighlight">
+ android:background="@drawable/whitewood"
+                >
     <Button
         android:text="FLIP"
         android:layout_width="wrap_content"
